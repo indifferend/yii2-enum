@@ -1,11 +1,11 @@
 <?php
 
-namespace yii2mod\enum\helpers;
+namespace indifferentmoviegoer\enum\helpers;
 
 /**
  * Class BooleanEnum
  *
- * @package yii2mod\enum\helpers
+ * @package indifferentmoviegoer\enum\helpers
  */
 class BooleanEnum extends BaseEnum
 {

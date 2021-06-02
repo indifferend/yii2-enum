@@ -8,13 +8,13 @@
 
 Enum implementation for Yii Framework 2.0
 
-[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-enum/v/stable)](https://packagist.org/packages/yii2mod/yii2-enum) [![Total Downloads](https://poser.pugx.org/yii2mod/yii2-enum/downloads)](https://packagist.org/packages/yii2mod/yii2-enum) [![License](https://poser.pugx.org/yii2mod/yii2-enum/license)](https://packagist.org/packages/yii2mod/yii2-enum)
-[![Build Status](https://travis-ci.org/yii2mod/yii2-enum.svg?branch=master)](https://travis-ci.org/yii2mod/yii2-enum)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yii2mod/yii2-enum/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/yii2mod/yii2-enum/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/indifferentmoviegoer/yii2-enum/v/stable)](https://packagist.org/packages/indifferentmoviegoer/yii2-enum) [![Total Downloads](https://poser.pugx.org/indifferentmoviegoer/yii2-enum/downloads)](https://packagist.org/packages/indifferentmoviegoer/yii2-enum) [![License](https://poser.pugx.org/indifferentmoviegoer/yii2-enum/license)](https://packagist.org/packages/indifferentmoviegoer/yii2-enum)
+[![Build Status](https://travis-ci.org/indifferentmoviegoer/yii2-enum.svg?branch=master)](https://travis-ci.org/indifferentmoviegoer/yii2-enum)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/indifferentmoviegoer/yii2-enum/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/indifferentmoviegoer/yii2-enum/?branch=master)
 
 ## Support us
 
-Does your business depend on our contributions? Reach out and support us on [Patreon](https://www.patreon.com/yii2mod). 
+Does your business depend on our contributions? Reach out and support us on [Patreon](https://www.patreon.com/indifferentmoviegoer). 
 All pledges will be dedicated to allocating workforce on maintenance and new awesome stuff.
 
 Installation
@@ -25,13 +25,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2mod/yii2-enum "*"
+php composer.phar require --prefer-dist indifferentmoviegoer/yii2-enum "*"
 ```
 
 or add
 
 ```
-"yii2mod/yii2-enum": "*"
+"indifferentmoviegoer/yii2-enum": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -55,7 +55,7 @@ to the require section of your `composer.json` file.
 
 namespace app\models\enums;
 
-use yii2mod\enum\helpers\BaseEnum;
+use indifferentmoviegoer\enum\helpers\BaseEnum;
 
 class PostStatus extends BaseEnum
 {

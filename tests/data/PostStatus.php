@@ -1,13 +1,13 @@
 <?php
 
-namespace yii2mod\enum\tests\data;
+namespace indifferentmoviegoer\enum\tests\data;
 
-use yii2mod\enum\helpers\BaseEnum;
+use indifferentmoviegoer\enum\helpers\BaseEnum;
 
 /**
  * Class PostStatus
  *
- * @package yii2mod\enum\tests\data
+ * @package indifferentmoviegoer\enum\tests\data
  */
 class PostStatus extends BaseEnum
 {

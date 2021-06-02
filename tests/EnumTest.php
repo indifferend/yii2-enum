@@ -1,13 +1,13 @@
 <?php
 
-namespace yii2mod\enum\tests;
+namespace indifferentmoviegoer\enum\tests;
 
-use yii2mod\enum\tests\data\PostStatus;
+use indifferentmoviegoer\enum\tests\data\PostStatus;
 
 /**
  * Class EnumTest
  *
- * @package yii2mod\enum\tests
+ * @package indifferentmoviegoer\enum\tests
  */
 class EnumTest extends TestCase
 {

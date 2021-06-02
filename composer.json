@@ -1,5 +1,5 @@
 {
-    "name": "yii2mod/yii2-enum",
+    "name": "indifferentmoiegoer/yii2-enum",
     "description": "Yii2 Enumerable helpers",
     "type": "yii2-extension",
     "keywords": [
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii2mod\\enum\\": ""
+            "indifferentmoviegoer\\enum\\": ""
         }
     },
     "repositories": [

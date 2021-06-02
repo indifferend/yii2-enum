@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2mod\enum\helpers;
+namespace indifferentmoviegoer\enum\helpers;
 
 use BadMethodCallException;
 use ReflectionClass;
@@ -11,7 +11,7 @@ use yii\helpers\ArrayHelper;
 /**
  * Class BaseEnum
  *
- * @package yii2mod\enum\helpers
+ * @package indifferentmoviegoer\enum\helpers
  */
 abstract class BaseEnum
 {
