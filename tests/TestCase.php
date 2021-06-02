@@ -1,6 +1,6 @@
 <?php
 
-namespace indifferentmoviegoer\enum\tests;
+namespace indifferend\enum\tests;
 
 use Yii;
 use yii\helpers\ArrayHelper;

@@ -1,13 +1,13 @@
 <?php
 
-namespace indifferentmoviegoer\enum\tests\data;
+namespace indifferend\enum\tests\data;
 
-use indifferentmoviegoer\enum\helpers\BaseEnum;
+use indifferend\enum\helpers\BaseEnum;
 
 /**
  * Class PostStatus
  *
- * @package indifferentmoviegoer\enum\tests\data
+ * @package indifferend\enum\tests\data
  */
 class PostStatus extends BaseEnum
 {

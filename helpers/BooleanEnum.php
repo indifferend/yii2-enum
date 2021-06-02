@@ -1,11 +1,11 @@
 <?php
 
-namespace indifferentmoviegoer\enum\helpers;
+namespace indifferend\enum\helpers;
 
 /**
  * Class BooleanEnum
  *
- * @package indifferentmoviegoer\enum\helpers
+ * @package indifferend\enum\helpers
  */
 class BooleanEnum extends BaseEnum
 {
